@@ -6,6 +6,9 @@ Tinfoil is a client-side web application that simulates a vintage television rec
 <img width="845" height="712" alt="image" src="https://github.com/user-attachments/assets/3ed85000-baa0-41e1-a6d2-0fcfcfdde17b" />
 
 
+## Try it Out
+- https://tinfoil-topaz.vercel.app/
+
 ## Features
 
 * Synchronized broadcast clock: Calculates current program offsets across active channels using a fixed epoch in `src/broadcast.js`, ensuring all clients calculate the same playback timestamp without central server coordination.
